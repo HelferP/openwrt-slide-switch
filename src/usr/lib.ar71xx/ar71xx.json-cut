@@ -80,8 +80,8 @@
 			"gpios": [ 14, 17 ],
 			"codes": [ "BTN_0", "BTN_1" ],
 			"positions": {
-				"hi_lo": "eth",
-				"lo_hi": "hotspot",
+				"lo_hi": "eth",
+				"hi_lo": "hotspot",
 				"hi_hi": "ap"
 			}
 		}
