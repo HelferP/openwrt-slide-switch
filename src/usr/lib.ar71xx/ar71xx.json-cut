@@ -75,6 +75,17 @@
 			}
 		}
 	},
+	"tl-wr902ac-v1": {
+		"mode": {
+			"gpios": [ 14, 17 ],
+			"codes": [ "BTN_0", "BTN_1" ],
+			"positions": {
+				"hi_lo": "eth",
+				"lo_hi": "hotspot",
+				"hi_hi": "ap"
+			}
+		}
+	},
 	"tl-wr720n-v3": {
 		"mode": {
 			"gpios": [ 18, 20 ],
